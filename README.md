@@ -17,6 +17,7 @@ https://en.wikipedia.org/wiki/List_of_optical_illusions
 ## Related work
 
 Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images (https://arxiv.org/abs/1412.1897)
+
 Optical Illusions Images Dataset
 (https://arxiv.org/abs/1810.00415)
 
