@@ -1,5 +1,8 @@
 # Visual Illusions
 
+![alt text](test_arange_94.png)
+![alt text](test_arange_95.png)
+
 Can we teach a machine to categorise visual illusions and generate new ones? 
 
 ## Dataset
